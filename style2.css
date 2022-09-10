@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 0, 0);
+}
+.B{
+    color: #259403;
+    opacity:  1;
+    font-size: 300%;
+    font-style: oblique;
+    font-weight: normal;
+    text-shadow: 5px 5px 20px rgb(0, 8, 255);
+    border-radius:5px solid rgb(250, 249, 249);
+    justify-content: center center;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+h1{
+    text-align: center;
+    text-shadow: 5px 5px 20px rgb(0, 8, 255);
+    font-size: 300%;
+}
+h2{
+    text-align: center;
+    color: #01effb;
+    opacity:  0.7;
+    font-size: 500%;
+}
